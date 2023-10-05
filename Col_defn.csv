@@ -1,0 +1,31 @@
+Col_name,Definition
+radius_mean, The average distance from the center to points on the perimeter of the tumor.
+texture_mean, The standard deviation of gray-scale values in the image.
+perimeter_mean, The total length of the boundary of the tumor.
+area_mean, The total area of the tumor.
+smoothness_mean, The variation in the length of the boundary of the tumor.
+compactness_mean," The compactness of the tumor, calculated as the perimeter squared divided by the area."
+concavity_mean, The severity of concave portions of the tumor.
+concave_points_mean, The number of concave portions of the tumor.
+symmetry_mean, The symmetry of the tumor.
+fractal_dimension_mean, A measure of the complexity of the tumor boundary.
+radius_se, The standard error of the distance from the center to points on the perimeter of the tumor.
+texture_se, The standard error of gray-scale values in the image.
+perimeter_se, The standard error of the length of the boundary of the tumor.
+area_se, The standard error of the area of the tumor.
+smoothness_se, The standard error of the variation in the length of the boundary of the tumor.
+compactness_se, The standard error of the compactness of the tumor.
+concavity_se, The standard error of the severity of concave portions of the tumor.
+concave_points_se, The standard error of the number of concave portions of the tumor.
+symmetry_se, The standard error of the symmetry of the tumor.
+fractal_dimension_se, The standard error of the complexity of the tumor boundary.
+radius_worst, The worst (largest) distance from the center to points on the perimeter of the tumor.
+texture_worst, The worst (largest) standard deviation of gray-scale values in the image.
+perimeter_worst, The worst (largest) length of the boundary of the tumor.
+area_worst, The worst (largest) area of the tumor.
+smoothness_worst, The worst (largest) variation in the length of the boundary of the tumor.
+compactness_worst, The worst (largest) compactness of the tumor.
+concavity_worst, The worst (largest) severity of concave portions of the tumor.
+concave_points_worst, The worst (largest) number of concave portions of the tumor.
+symmetry_worst, The worst (largest) symmetry of the tumor.
+fractal_dimension_worst, The worst (largest) complexity of the tumor boundary.
