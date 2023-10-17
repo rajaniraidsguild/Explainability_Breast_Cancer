@@ -1,5 +1,5 @@
 # Explainability_Breast_Cancer
-Explain ability using Shap and improved using GPT
+Explainability using Shap and performance improved using GPT
 
 
 One of the strongest usecase of LLMs for Data scientists, bridging the gap of domain, functional understanding while developing or experimenting with different models. 
