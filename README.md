@@ -16,5 +16,5 @@ Patience ID ABC ->
 
 For Patient ABC, the higher chances(80%) of malignancy of cancer is primarily caused by factors like larger variations and complexities in the length and boundary of the tumor, more severe concave portions, highest standard deviations of gray-scale values, larger sizes, and greater distances from the center to points on the perimeter of the tumor. These factors suggest a higher likelihood of aggressive and harmful characteristics in the cancer.
 
-(Note, this is not validated by any professional expert, yet it certainly shows that a strong prompt engineering can make a solution more explainable, usable, adoptable, and hence responsible)
+(Note, this is not validated by any professional expert, yet it certainly shows that use of LLMs with a strong prompt engineering can make a solution more explainable, usable, adoptable, and hence responsible)
 Chatgpt was used to understand the column definitions using a abstract of the paper https://www.spiedigitallibrary.org/conference-proceedings-of-spie/1905/1/Nuclear-feature-extraction-for-breast-tumor-diagnosis/10.1117/12.148698.short?SSO=1. The same broader definitions are used to build summary statements in chatgpt(please note the Chatgpt is not part of this code)
